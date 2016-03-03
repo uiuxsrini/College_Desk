@@ -1,0 +1,29 @@
+{
+    "name": "College-Desk",
+    "version": "0.0.1",
+    "description": "An AngularJS implementation of the responsive dashboard",
+    "authors": [
+        "Adhikari Srinivasa Kumar <uiuxsrini@gmail.com>"
+    ],
+    "contributors": [
+        "Nitin Sasi",
+        "Adhikari Srinivasa Kumar"
+    ],
+    "main": "index.html",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "rdash-ui": "1.0.*",
+        "angular": "~1.5.0",
+        "angular-cookies": "~1.5.0",
+        "angular-bootstrap": "~1.0.3",
+        "angular-ui-router": "^0.2.15",
+        "bootstrap": "~3.3.6",
+        "font-awesome": "~4.5.0"
+    }
+}
